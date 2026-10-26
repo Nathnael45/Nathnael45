@@ -9,6 +9,7 @@ CS student at **Cornell** ('27, AI minor). I build security tooling, AI agents, 
 - 🎨 **[DreamBooth Re-implementation](https://github.com/Anthony-PB/cs4782finalDream)**: DreamBooth rebuilt from scratch for subject-driven Stable Diffusion from 3–5 photos, extended with LoRA to match the paper's results with far less compute.
 - 🎮 **[Tower of the Tail](https://gdiac.cs.cornell.edu/gdiac/showcase/games/tower_of_the_tail/)** (playable download): 2D platformer in Java/LibGDX from a 9-person team; I built player mechanics, platforms and item merge logic, and owned the architecture spec.
 - 🎯 **[newgrad-radar](https://github.com/Nathnael45/newgrad-radar)**: finds new-grad SWE jobs from community lists and ~90 company job boards, and reads each posting to filter out ones that aren't really entry-level.
+
 ### Tech
 
 **Languages:** Python · Java · TypeScript · C · Rust · SQL · GraphQL · Bash\
